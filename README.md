@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./1-Semestre/assets/logo-active-age.png" alt="Logo Active Age" width="250"/>
+  <img src="./1-Semestre/assets/logo-active-age.png" alt="Logo Active Age" width="500"/>
 </p>
 
 # 🩺 Active Age
